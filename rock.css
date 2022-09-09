@@ -1,0 +1,373 @@
+ body{
+    margin: 0;
+
+   
+ }
+ .header{
+
+    height: 61px;
+    width: 100%;
+    background-color: black;
+    display: grid;
+   
+    grid-template-columns: 581px 431px 500px ;
+
+ 
+   
+    
+}
+.left-sec{
+    margin-left: 36px;
+    height: 61px;
+    width: 425px;
+    background-color: black;
+    
+}
+.optionmenu{
+    height: 26px;
+    margin-top: 17px;
+    margin-left: -6px;
+    cursor: pointer;
+
+}
+.middle-sec{
+    background-color: black;
+    height: 61px;
+    width: 100px;
+    margin-left: 72px;
+  
+
+
+}
+.rstar{
+    height: 65px;
+    width: 104px;
+    cursor: pointer;
+    
+    
+}
+.right-sec{
+    background-color: black;
+
+
+}
+.social{
+    margin-left: 337px;
+    margin-top: 6px;
+    height: 47px;
+    cursor: pointer;
+}
+.middle{
+    background-color: black;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 766px;
+
+    
+}
+.left-side{
+    background-color: black;
+    height: 400px;
+    display: block;
+}
+.gta-img{
+    height: 614px;
+    cursor: pointer;
+
+}
+.right-side{
+    background-color: black;
+    height:630px;
+    
+}
+.name{
+    color: #fff;
+    font-weight: bold;
+    margin-top: 34px;
+    margin-left: 37px;
+}
+   
+.head{
+    font-size: 44px;
+    margin-left: 36px;
+    color: #FFf;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sec-middle{
+    background-color: antiquewhite;
+    height: 700px;
+
+}
+.btn{
+    width: 211px;
+    height: 62px;
+    color: white;
+    background-color: black;
+    border: solid;
+    border-radius: 5px;
+    margin-left: 48px;
+    font-size: larger;
+    margin-top: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: cadetblue;
+}
+.news{
+    background-color: black;
+    height: 52px;
+    width: 210px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 62px;
+}
+.center{
+    background-color: aqua;
+    height: 50px;
+    width: 50px;
+}
+.news{
+    height: 50px;
+    color: #FFf;
+    width: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.center-div{
+    background-color: black;
+    height: 450px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+
+
+}
+.jocker{
+    background-color: black;
+    height: 450px;
+    width: 82%;;
+    margin-left: 58px;
+}
+
+.jocker-img{
+    height: 421px;
+    cursor: pointer;
+    
+}
+.race-img{
+    height: 421px;
+    cursor: pointer;
+
+}
+.red-dead{
+    height: 421px;
+    width: 96%;
+    cursor: pointer;
+}
+.center-div2{
+    height: 165px;
+    background-color: black;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+}
+.game-title{
+    background-color: black;
+    height: 162px;
+    width: 83%;
+    margin-left: 58px;
+    
+}
+.game-head{
+    color: #FFf;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.ceter-div3{
+    background-color: black;
+    height: 500px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.game-title2{
+    background-color: black;
+    height: 450px;
+    width: 82%;
+    margin-left: 58px;
+
+}
+.gta5{
+    height: 450px;
+    width: 103%;
+    cursor: pointer;
+
+}
+.center-div4{
+    background-color: black;
+    height: 523px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+.game-heading{
+    background-color: black;
+    height: 162px;
+    width: 83%;
+    margin-left: 58px;
+}
+.game-head2{
+    color: #FFf;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.feature-gm{
+    height: 50px;
+    margin-top: 251px;
+    margin-left: 75px;
+    color: #FFf;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.center-div5{
+    background-color: black;
+    height: 507px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.div-5{
+    background-color: black;
+    height: 373px;
+    width: 75%;
+    margin-left: 58px;
+}
+.div5-img{
+    height: 378px;
+    cursor: pointer;
+}
+.button-div{
+    background-color: black;
+    height: 332px;
+    text-align: center;
+    
+
+}
+.button-2{
+    background-color: #1c2121;
+    margin-left: 462px;
+    margin-top: 60px;
+    color: #FFf;
+    height: 53px;
+    font-size: large;
+    font-weight: bold;
+    width: 30%;
+    border-radius: 34px;
+    cursor: pointer;
+}
+.button-2:hover{
+    color: #fcaf17;
+}
+.button-3{
+    background-color: #1c2121;
+    margin-top: 60px;
+    color: #FFf;
+    height: 53px;
+    font-size: large;
+    font-weight: bold;
+    width: 11%;
+    border-radius: 34px;
+    cursor: pointer;
+
+}
+.button-3:hover{
+    color: #fcaf17;
+}
+.footer{
+    background-color:#110e0e;
+    height: 447px;
+    padding-top: 80px;
+    padding-left: 80px;
+    padding-right: 131px;
+}
+
+
+.footer-div{
+    background-color: #110e0e;
+    height: 300px;
+    display: grid;
+    grid-template-columns: 1fr 400px;
+    column-gap: 20px;
+
+}
+.footer-left{
+    background-color: #110e0e;
+    font-size: 23px;
+    word-spacing: 50px;
+    color: #FFf;
+    font-weight: bold;
+   
+}
+.footer-left a{
+     text-decoration: none;
+     color: #FFf;
+     cursor: pointer;
+}
+.footer-left a:hover{
+    color: #fcaf17;
+}
+.footer-select{
+    margin-left: 186px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    padding-right: 23px;
+    padding-left: 23px;
+    width: 143.325px;
+    border: none;
+    color: #FFf;
+    background-color:#110e0e;
+    cursor: pointer;
+    border-radius: 50px;
+}
+.footer-right{
+    background-color: #110e0e;
+    height: 50px;
+    display: grid;
+    grid-template-columns: 1fr 500px;
+    column-gap: 600px;
+
+}
+.footer-rightdiv{
+    background-color: #110e0e;
+    height:50px ;
+    color: #FFf;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+}
+.img-div{
+    background-color: #110e0e;
+    height: 50px;
+    width: 65px;
+    margin-left: 50px;
+   
+}
+.images{
+    height: 30px;
+    cursor: pointer;
+}
+.images-twit{
+    height: 30px;
+    cursor: pointer;
+}
+.images:hover{
+height: 40px;
+
+}
+.images-twit:hover{
+    height: 40px;
+}
